@@ -14,4 +14,4 @@
 # limitations under the License.
 #
 
-add_lunch_combo carbon_leo_aosp-userdebug
+add_lunch_combo cm_leo_aosp-userdebug
